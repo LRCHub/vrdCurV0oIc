@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Fly Me to the Moon",
+  "base_artist": "Olivia Ong",
+  "createdAt": "2025-12-14T20:47:04.087044Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fly Me To The Moon",
+      "artist": "Skanatra",
+      "has_synced": true,
+      "path": "select/01_Fly_Me_To_The_Moon_Skanatra.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fly Me to the Moon",
+      "artist": "春奈るな",
+      "has_synced": true,
+      "path": "select/02_Fly_Me_to_the_Moon_春奈るな.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fly Me to the Moon",
+      "artist": "Djavan",
+      "has_synced": true,
+      "path": "select/03_Fly_Me_to_the_Moon_Djavan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fly Me to the Moon",
+      "artist": "Jenjoon",
+      "has_synced": true,
+      "path": "select/04_Fly_Me_to_the_Moon_Jenjoon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fly Me To The Moon",
+      "artist": "黎明",
+      "has_synced": true,
+      "path": "select/05_Fly_Me_To_The_Moon_黎明.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fly Me To The Moon",
+      "artist": "Boostereo",
+      "has_synced": true,
+      "path": "select/06_Fly_Me_To_The_Moon_Boostereo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fly me to the moon",
+      "artist": "高橋洋子",
+      "has_synced": false,
+      "path": "select/07_Fly_me_to_the_moon_高橋洋子.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fly Me To The Moon",
+      "artist": "Claire",
+      "has_synced": false,
+      "path": "select/08_Fly_Me_To_The_Moon_Claire.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fly Me to the Moon",
+      "artist": "RAYE",
+      "has_synced": true,
+      "path": "select/09_Fly_Me_to_the_Moon_RAYE.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "FLY ME TO THE MOON",
+      "artist": "CLARE",
+      "has_synced": true,
+      "path": "select/10_FLY_ME_TO_THE_MOON_CLARE.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fly Me to the Moon",
+      "artist": "Sitti",
+      "has_synced": true,
+      "path": "select/11_Fly_Me_to_the_Moon_Sitti.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fly Me to the Moon",
+      "artist": "Chris Mann",
+      "has_synced": true,
+      "path": "select/12_Fly_Me_to_the_Moon_Chris_Mann.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fly Me To The Moon",
+      "artist": "Chris Montez",
+      "has_synced": false,
+      "path": "select/13_Fly_Me_To_The_Moon_Chris_Montez.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fly Me to the Moon",
+      "artist": "Casey Abrams",
+      "has_synced": false,
+      "path": "select/14_Fly_Me_to_the_Moon_Casey_Abrams.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Fly Me To The Moon",
+      "artist": "Avishai Cohen",
+      "has_synced": true,
+      "path": "select/15_Fly_Me_To_The_Moon_Avishai_Cohen.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Fly Me to the Moon",
+      "artist": "Frank Sinatra",
+      "has_synced": true,
+      "path": "select/16_Fly_Me_to_the_Moon_Frank_Sinatra.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Fly Me to the Moon",
+      "artist": "Sinatra, Frank",
+      "has_synced": true,
+      "path": "select/17_Fly_Me_to_the_Moon_Sinatra,_Frank.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fly Me to the Moon",
+      "artist": "Olivia Ong",
+      "has_synced": false,
+      "path": "select/pl_01_Fly_Me_to_the_Moon_Olivia_Ong.txt"
+    }
+  ]
+}
